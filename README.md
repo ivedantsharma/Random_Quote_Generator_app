@@ -1,4 +1,4 @@
-# Advice Slip React Application
+# Random Quote Generator React Application
 
 This project is a simple ReactJS application that fetches data from the Advice Slip JSON API to display random pieces of advice. It serves as an introductory tutorial to using React in combination with API requests to build a functional web application.
 
